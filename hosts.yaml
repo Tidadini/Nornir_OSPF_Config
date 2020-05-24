@@ -1,0 +1,48 @@
+---
+R1:
+  hostname: 192.168.43.11
+  platform: 'ios'
+  username: fouzi
+  password: cisco
+  groups:
+      - cisco_group
+
+R2:
+  hostname: 192.168.43.12
+  platform: 'ios'
+  username: fouzi
+  password: cisco
+  groups:
+      - cisco_group
+
+R3:
+  hostname: 192.168.43.13
+  platform: 'ios'
+  username: fouzi
+  password: cisco
+  groups:
+      - cisco_group
+R4:
+  hostname: 192.168.43.14
+  platform: 'ios'
+  username: fouzi
+  password: cisco
+  groups:
+      - cisco_group
+
+R5:
+  hostname: 192.168.43.15
+  platform: 'ios'
+  username: fouzi
+  password: cisco
+  groups:
+      - cisco_group
+
+R6:
+  hostname: 192.168.43.16
+  platform: 'ios'
+  username: fouzi
+  password: cisco
+  groups:
+      - cisco_group
+
